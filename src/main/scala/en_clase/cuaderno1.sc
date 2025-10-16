@@ -1,3 +1,5 @@
+//CUADERNO 1 DE MARIA ME LO PASO CUANDO FALTE EL DIA DEL EXAMEN DE CONDUCIR
+
 //FORMA RECURSIVA
 def suma0toN_mal(n:Int): Int =
   if (n == 0) then
@@ -23,7 +25,7 @@ suma0toN(100000)
 
 //EJERCICIO 1
 def esPar(n:Int): Boolean =
-  if n == 0 then
+  if n == 0 then 
     true
   else if n == 1 then
     false
